@@ -9,7 +9,7 @@
 ![I am from kyrgyzstan](https://img.shields.io/badge/-I'm%20from%20Kyrgyzstan%20%F0%9F%87%B0%F0%9F%87%AC%20%20-red)  ![Living in Osh](https://img.shields.io/badge/-Living%20in%20Osh-orange) 
 
 #### Reach me on
-[![Instagram](https://img.shields.io/badge/rochacbruno-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/madinluw)
+[![Instagram](https://img.shields.io/badge/madinluw-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/madinluw)
 
 #### I mainly code using
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
