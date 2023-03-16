@@ -4,7 +4,7 @@
 
 
 
-[![I like Python Language](https://img.shields.io/badge/I%20like%20Rust%20Language-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang) ![I like beer](https://img.shields.io/badge/🍺%20Beer-%23000000.svg?style=for-the-badge&logoColor=white) ![I like bicycles](https://img.shields.io/badge/🚴%20Bicycle-000.svg?style=for-the-badge&logoColor=white) 
+[![I like Python Language](https://img.shields.io/badge/I%20like%20Python%20Language-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang) ![I like sprite](https://img.shields.io/badge/%20sprite-%23000000.svg?style=for-the-badge&logoColor=white) ![I like bicycles](https://img.shields.io/badge/🚴%20Bicycle-000.svg?style=for-the-badge&logoColor=white) 
 
 ![I am from kyrgyzstan](https://img.shields.io/badge/-I'm%20from%20Kyrgyzstan%20%F0%9F%87%B0%F0%9F%87%AC%20%20-red)  ![Living in Osh](https://img.shields.io/badge/-Living%20in%20Osh-orange) 
 
